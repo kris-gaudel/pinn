@@ -1,5 +1,5 @@
 # pinn
-Sharing my learnings in the world of Sci-ML
+Sharing my learnings in the world of Sci-ML (and JAX!)
 
 ## Resources
 These are the videos/resources I've been going through so far (e.g., coding along to videos, implementing papers, watching lectures)
