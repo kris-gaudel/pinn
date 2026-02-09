@@ -1,5 +1,5 @@
 # pinn
-Sharing my learnings in the world of Sci-ML
+Sharing my learnings in the world of Sci-ML (and JAX!)
 
 ## Resources
 These are the videos/resources I've been going through so far (e.g., coding along to videos, implementing papers, watching lectures)
@@ -10,3 +10,5 @@ These are the videos/resources I've been going through so far (e.g., coding alon
 - [Solving Fokker-Planck equation using deep learning](https://arxiv.org/pdf/1910.10503) (TODO)
 #### Books
 - [databook](https://databookuw.com/databook.pdf)
+- [Baby Rudin](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf)
+- [Stochastic Processes and Applications](https://www.ma.imperial.ac.uk/~pavl/PavliotisBook.pdf)
