@@ -12,3 +12,5 @@ These are the videos/resources I've been going through so far (e.g., coding alon
 - [databook](https://databookuw.com/databook.pdf)
 - [Baby Rudin](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf)
 - [Stochastic Processes and Applications](https://www.ma.imperial.ac.uk/~pavl/PavliotisBook.pdf)
+#### Courses
+- [Monte Carlo Methods and Applications](https://geometrycollective.github.io/monte-carlo/)
