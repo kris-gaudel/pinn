@@ -7,7 +7,12 @@ These are the videos/resources I've been going through so far (e.g., coding alon
 - [Machine Learning and Simulation](https://www.youtube.com/@MachineLearningSimulation/featured)
 - [Steve Brunton's PINN Course](https://www.youtube.com/watch?v=JoFW2uSd3Uo&list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa)
 #### Papers
-- [Solving Fokker-Planck equation using deep learning](https://arxiv.org/pdf/1910.10503) (TODO)
+- [Solving Fokker-Planck equation using deep learning](https://arxiv.org/pdf/1910.10503)
+- [Physics Informed Deep Learning (Part I): Data-driven
+Solutions of Nonlinear Partial Differential Equations](https://arxiv.org/pdf/1711.10561)
+- [DeepONet: Learning nonlinear operators for identifying differential
+equations based on the universal approximation theorem of
+operators](https://arxiv.org/pdf/1910.03193)
 #### Books
 - [databook](https://databookuw.com/databook.pdf)
 - [Baby Rudin](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf)
