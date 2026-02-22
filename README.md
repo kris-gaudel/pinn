@@ -17,5 +17,6 @@ operators](https://arxiv.org/pdf/1910.03193)
 - [databook](https://databookuw.com/databook.pdf)
 - [Baby Rudin](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf)
 - [Stochastic Processes and Applications](https://www.ma.imperial.ac.uk/~pavl/PavliotisBook.pdf)
+- [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
 #### Courses
 - [Monte Carlo Methods and Applications](https://geometrycollective.github.io/monte-carlo/)
