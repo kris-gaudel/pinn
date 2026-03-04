@@ -13,6 +13,7 @@ Solutions of Nonlinear Partial Differential Equations](https://arxiv.org/pdf/171
 - [DeepONet: Learning nonlinear operators for identifying differential
 equations based on the universal approximation theorem of
 operators](https://arxiv.org/pdf/1910.03193)
+- [Lagrangian Neural Networks](https://arxiv.org/abs/2003.04630)
 #### Books
 - [databook](https://databookuw.com/databook.pdf)
 - [Baby Rudin](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf)
@@ -20,3 +21,4 @@ operators](https://arxiv.org/pdf/1910.03193)
 - [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
 #### Courses
 - [Monte Carlo Methods and Applications](https://geometrycollective.github.io/monte-carlo/)
+- [AI in the Sciences and Engineering](https://www.youtube.com/watch?v=LkKvhvsf6jY&list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r)
